@@ -1,0 +1,6 @@
+{
+  "name": "Huot Theara CV",
+  "description": "Professional CV website for Huot Theara",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
