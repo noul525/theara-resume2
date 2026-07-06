@@ -7,7 +7,7 @@ import React from 'react';
 import { Mail, Phone, MapPin, Linkedin, Printer, Download, ExternalLink, CheckCircle } from 'lucide-react';
 import { motion } from 'motion/react';
 // @ts-ignore
-import headshot from './assets/images/huot_theara_headshot.jpg';
+import headshot from './assets/images/photo.png';
 
 export default function App() {
   const handlePrint = () => {
